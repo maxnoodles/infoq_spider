@@ -1,1 +1,1 @@
-"# infoq_spider" 
+# infoq_spider
